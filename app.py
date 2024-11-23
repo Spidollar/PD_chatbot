@@ -9,8 +9,7 @@ import requests
 from cloudinary.uploader import upload
 import cloudinary
 import cloudinary.uploader
-import requests
-requests.get('https://www.huggingface.co')
+
 
 
 
